@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hat3rade
+- 👋 Hi, I’m @Ishaan
 - 👀 I’m interested in Opertaing systems
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
